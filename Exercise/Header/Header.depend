@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1647173622 source:d:\c\header\upr.c
+	"upr.h"
+
+1647173765 source:d:\c\header\main.c
+	"upr.h"
+
+1647173934 d:\c\header\upr.h
+	<stdio.h>
+	<stdlib.h>
+
