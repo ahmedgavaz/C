@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1649777380 source:c:\users\ahmed\desktop\Лекции\БПЕ\Програми\От мен\string concatenation\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
